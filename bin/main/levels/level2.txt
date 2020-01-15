@@ -1,0 +1,26 @@
+
+
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                           GG                         
+                            G                         
+                           gG                 g            
+                 NNW        G                                
+                            G            NNNNNN       
+                          N G                g               gG
+GNN      G      NQTNN   NNN G                                GG       G
+G  NNNNNNGG             NNNGGNGNGNG     GGGGGG G  G   GG              G             NN         g
+GQNNNN  GGGG            NNNgkgkN N NTN   GGGGGG G  G  GGGG         NNNN  NN          N      GGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGNGNGGGGG  GGGGGG G  G  GGGGGGGGGGGGG g gNN     GG   GGG     TGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG N GGGGG  GGGGGG G  G  GGGGGGGGGGGGGGGGGGGGGG  GG        GGGGGGGGGGGGGGGGGGGGGGGG
+/entranceLX=80;entranceLY=0;eR=entranceL;levelR=level2;                                                               

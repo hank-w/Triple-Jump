@@ -1,0 +1,13 @@
+                               
+                               
+                               
+                               
+BBBB                           B
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+/entranceLX=80;entranceLY=30;entranceSX=880;entranceSY=35;levelR=reflection;eR=entranceL;eU=entranceL;levelD=entrance;eD=entranceL;
